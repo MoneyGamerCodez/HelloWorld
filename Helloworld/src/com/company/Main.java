@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         System.out.print("hello world");
         System.out.printf("My Github is: thomas-R-georgiancollege");
-        System.out.print("This Java programis written in IntelliJ");
+        System.out.print("This Java program is written in IntelliJ");
     }
 
 }
