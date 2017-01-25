@@ -7,7 +7,7 @@ public class Main {
         System.out.print("hello world");
         System.out.printf("My Github is: thomas-R-georgiancollege");
         System.out.print("This Java program is written in IntelliJ");
-        System.out.print("this is just one final test");
+        System.out.print("this is just one final Test");
     }
 
 }
